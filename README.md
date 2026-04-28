@@ -57,16 +57,21 @@ Each account supports:
 
 ## ▶️ How to Run
 
-Compile:
+**Compile:**
+```bash
 g++ main.cpp -o banking_system
+```
 
-Run:
+**Run:**
+```bash
 ./banking_system
+```
 
 ---
 
 ## 📸 Sample Output
 
+```text
 ============================================
 |        BANKING SYSTEM - TERMINAL APP      |
 |        Developed by Elif Nehir Özer       |
@@ -74,8 +79,7 @@ Run:
 ============================================
 
 Welcome To Your Secure Bank...
-
----
+```
 
 ## ⚠️ Error Handling
 
