@@ -106,6 +106,5 @@ Elif Nehir Özer
 ## 📌 Notes
 
 - Terminal-based application (no GUI)
-- Built for learning and demonstration purposes
 - Can be extended with GUI or database integration
 
